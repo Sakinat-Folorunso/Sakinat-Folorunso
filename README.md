@@ -172,11 +172,12 @@ My work therefore brings together **research, education, community building and 
 
 ---
 
-## 📫 Connect With Me
 
-📧 **Academic Email:** [sakinat.folorunso@oouagoiwoye.edu.ng](mailto:sakinat.folorunso@oouagoiwoye.edu.ng)
+## 🎓 Academic Profiles & Contact
 
-🔬 **GitHub:** [Sakinat-Folorunso](https://github.com/Sakinat-Folorunso)
+- 🔬 **[Google Scholar](https://scholar.google.com/citations?user=CpOk_oIAAAAJ&hl=en)** — Publications and research profile
+- 💻 **[GitHub](https://github.com/Sakinat-Folorunso)** — Research, teaching materials and open-source resources
+- 📧 **Academic Email:** [sakinat.folorunso@oouagoiwoye.edu.ng](mailto:sakinat.folorunso@oouagoiwoye.edu.ng)
 
 ---
 
@@ -185,45 +186,6 @@ My work therefore brings together **research, education, community building and 
 ---
 
 ### 💡 *Research. Teach. Build. Share. Advance AI.*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- 👋 Hi, I’m @Sakinat-Folorunso
-- 👀 I’m interested in artificial intelligence, Machine learning
-- 🌱 I’m currently learning Natural language processing
-- 💞️ I’m looking to collaborate on research and grant writing on applications of machine learning
-- 📫 How to reach me sakinat.folorunso@oouagoiwoye.edu.ng, bamidelekeke@gmail.com
-- 😄 Pronouns: She
-- ⚡ Fun fact: Singing and dancing
-
 <!---
 Sakinat-Folorunso/Sakinat-Folorunso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
